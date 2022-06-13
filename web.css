@@ -1,0 +1,66 @@
+li{
+    display: inline;
+}
+ul{
+    word-spacing: 60px;
+}
+.one{
+    font-size: 30px;
+    font-weight: bolder;
+    padding-top: 2cm;
+}
+.register{
+    float: right;
+    border-radius: 10px;
+    height: 30px;
+    margin-right: 40px;
+    margin-top: 8px;
+    width: 80px;
+}
+.login{
+     padding-left: 20cm;
+     margin-left: -30px;   
+}
+h1{
+    /* border: 1px solid green; */
+    margin-left: 150px;
+    width: fit-content;
+    font-weight: bolder;
+    font-size: 80px;
+    margin-top: 100px;
+}
+.picture{
+    width: 500px;
+    height: 600px;
+    float: right;
+    /* border: 3px solid red; */
+    margin-right: 180px;
+    margin-top: -30px;
+}
+.paragraph{
+         /* border: 1px solid red; */
+         width: 10cm;
+         margin-left: 137px;
+        
+}
+.learn{
+    margin-left: 133px;
+    margin-top: 1cm;
+    font-size: 18px;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+    width: 120px;
+    height: 1cm;
+}
+.footer{
+    /* border: 1px solid red; */
+    margin-top: 2cm;
+    margin-left: 100px;
+}
+ .footer ul li{
+           text-decoration: dotted;
+ }
+i{
+     margin-left: 5px;
+}
